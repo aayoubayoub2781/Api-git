@@ -9,22 +9,22 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'imillie', false],
-['212693227969', '8bal', false]
+['212719070800', 'Nour', true],
+['212719070800', 'imillie', false],
+['212719070800', '8bal', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '212719070800',
+ pairingNumber: '212719070800',
+ nameown: 'Ayoub',
+ nomerown: '212719070800',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ author: 'Ayoub',
+ namebot: '𝚡𝟻',
+ wm: ''-'_꩜ 𝙰𝚢𝚘𝚞𝚋 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickauth: '𝚊𝚢𝚘𝚞𝚋 ʙᴏᴛ '
 }
 
 // Thumbnail 
@@ -32,9 +32,9 @@ global.url = {
  profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
  did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
  rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
- thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
+ thumbnail: 'https://telegra.ph/file/607304d2b6aff9a98c3d5.png',
+ thumb: '𝚑𝚝𝚝𝚙𝚜://𝚝𝚎𝚕𝚎𝚐𝚛𝚊.𝚙𝚑/𝚏𝚒𝚕𝚎/𝟼𝟶𝟽𝟹𝟶𝟺𝚍𝟸𝚋𝟼𝚊𝚏𝚏𝟿𝚊𝟿𝟾𝚌𝟹𝚍𝟻.𝚙𝚗𝚐',
+ logo: 'https://telegra.ph/file/607304d2b6aff9a98c3d5.png',
  unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
  registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
  confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
@@ -46,9 +46,9 @@ global.url = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://instagram.com/_ayoub_x5',
+ sgh:  'https://github.com/aayoubayoub2781',
+ sgc: ''
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
