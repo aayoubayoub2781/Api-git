@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { pinterest } from '../lib/scrape.js'
 
 let handler = async (m, { conn, command, text, usedPrefix }) => {
-  if (!text) throw `/n*هذا الامر يمكنك من تحميل الصور ب جودة عالية من بينترست*\n\n مثال *.pinterest* edgar`
+  if (!text) throw `/n*هذا الامر يمكنك من تحميل الصور ب جودة عالية من بينترست*\n\n مثال *.pinterest* قطط`
   conn.reply(m.chat, 'انتظر لحظة...', m)
 
   try {
@@ -31,12 +31,12 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
     }
   } catch (e) {
     console.log(e)
-    conn.reply(m.chat, 'Terjadi kesalahan saat mendownload gambar.', m)
+    conn.reply(m.chat, 'خطا.', m)
   }
 }
 
-handler.help = ['pinterest <keyword>']
-handler.tags = ['internet']
+handler.help = ['pinterest <الاسم>']
+handler.tags = ['tools']
 handler.command = /^pinterest$/i
 
 handler.register = true
